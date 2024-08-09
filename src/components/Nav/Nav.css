@@ -1,0 +1,53 @@
+nav {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    position: relative;
+}
+
+.logo {
+    width: 15%;
+    height: 30%;
+}
+
+.buttons {
+    width: 40%;
+    height: 50%;
+    display: flex;
+}
+
+.btn-location {
+    width: 45%;
+    height: 100%;
+    border: 1px solid #F2F2F2;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    background-color: #fff;
+}
+
+.btn-guest {
+    width: 45%;
+    height: 100%;
+    border: 1px solid #F2F2F2;
+    background-color: #fff;
+}
+
+.btn-search {
+    width: 10%;
+    height: 100%;
+    border: 1px solid #F2F2F2;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+.icon-search {
+    width: 70%;
+    height: 70%;
+}

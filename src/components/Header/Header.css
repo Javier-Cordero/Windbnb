@@ -1,0 +1,21 @@
+header {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.title {
+    font-size: 24px;
+    color: #000;
+    font-weight: 700;
+    line-height: 29.26px;
+}
+
+.datos {
+    font-size: 14px;
+    color: #4F4F4F;
+    font-weight: 500;
+}
